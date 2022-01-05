@@ -3,3 +3,5 @@ potentially some major conflicts
 if, and when, merge occurs
 
 thirdfeature new line
+
+further conflict generation from thirdbranch feature
